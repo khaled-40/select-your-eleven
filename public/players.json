@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/8gCNqFhs/sakib.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All‑rounder",
+    "rating": 9.5,
+    "batting_style": "Left‑hand bat",
+    "bowling_style": "Left‑arm orthodox",
+    "price": "$180,000"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/xKSgwtZq/mustafiz.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 9.0,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Left‑arm fast-medium",
+    "price": "$150,000"
+  },
+  {
+    "id": 3,
+    "image": "https://via.placeholder.com/150?text=Litton+Das",
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.7,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "N/A",
+    "price": "$120,000"
+  },
+  {
+    "id": 4,
+    "image": "https://via.placeholder.com/150?text=Taskin+Ahmed",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.5,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Right‑arm fast",
+    "price": "$110,000"
+  },
+  {
+    "id": 5,
+    "image": "https://via.placeholder.com/150?text=Mushfiqur+Rahim",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 9.2,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "N/A",
+    "price": "N/A"
+  },
+  {
+    "id": 6,
+    "image": "https://via.placeholder.com/150?text=Mahmudullah",
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "role": "All‑rounder",
+    "rating": 8.9,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Right‑arm offbreak",
+    "price": "$130,000"
+  },
+  {
+    "id": 7,
+    "image": "https://via.placeholder.com/150?text=Shoriful+Islam",
+    "name": "Shoriful Islam",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.3,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Left‑arm fast-medium",
+    "price": "$100,000"
+  },
+  {
+    "id": 8,
+    "image": "https://via.placeholder.com/150?text=Afif+Hossain",
+    "name": "Afif Hossain",
+    "country": "Bangladesh",
+    "role": "All‑rounder",
+    "rating": 8.6,
+    "batting_style": "Left‑hand bat",
+    "bowling_style": "Right‑arm offbreak",
+    "price": "$115,000"
+  },
+  {
+    "id": 9,
+    "image": "https://via.placeholder.com/150?text=Riyad+Kamal",
+    "name": "Riyad Kamal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 7.5,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "N/A",
+    "price": "N/A"
+  },
+  {
+    "id": 10,
+    "image": "https://via.placeholder.com/150?text=Nayeem+Hasan",
+    "name": "Nayeem Hasan",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.0,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Right‑arm offbreak",
+    "price": "$105,000"
+  },
+  {
+    "id": 11,
+    "image": "https://via.placeholder.com/150?text=Sabbir+Rahman",
+    "name": "Sabbir Rahman",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.2,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Right‑arm legbreak",
+    "price": "$95,000"
+  },
+  {
+    "id": 12,
+    "image": "https://via.placeholder.com/150?text=Abu+Jayed",
+    "name": "Abu Jayed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 7.8,
+    "batting_style": "Right‑hand bat",
+    "bowling_style": "Right‑arm fast-medium",
+    "price": "$90,000"
+  }
+]
