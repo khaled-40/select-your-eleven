@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { faFlag } from '@fortawesome/free-solid-svg-icons';
 
-const Player = ({player}) => {
+const Player = ({player,deductMoney,purchasePlayerDetails}) => {
     const [select, setSelect] = useState(false)
     const {image,name,country,role,rating,batting_style,bowling_style,price} = player;
     return (
@@ -28,7 +28,7 @@ const Player = ({player}) => {
             </div>
             <div className='flex justify-between items-center'>
                 <p className='font-semibold text-base'>Price: {price}</p>
-                <button disabled={select} onClick={() => setSelect(!select)} className='btn'>{select? "Selected":"Choose Player"}</button>
+                <button disabled={select} onClick={() => {setSelect(!select);deductMoney(price);purchasePlayerDetails(player)}} className='btn'>{select? "Selected":"Choose Player"}</button>
             </div>
         </div>
     );

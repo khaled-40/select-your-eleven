@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../../assets/logo.png'
 import coin from '../../assets/coin.png'
 
-const Nabvar = () => {
+const Nabvar = ({money}) => {
     return (
         <div className="navbar max-w-[1200px] mx-auto">
             <div className="flex-1">
@@ -13,7 +13,7 @@ const Nabvar = () => {
                 <a href="">Fixture</a>
                 <a href="">Teams</a>
                 <a href="">Schedules</a>
-                <button className='btn'><span>0</span> coin <img className='w-30px h-[30px]' src={coin} alt="" /></button>
+                <button className='btn'>$<span>{money}</span> coin <img className='w-30px h-[30px]' src={coin} alt="" /></button>
             </div>
         </div>
     );

@@ -1,9 +1,13 @@
 import React from 'react';
+import SelectedPlayer from './SelectedPlayer';
 
-const Selected = () => {
+const Selected = ({purchasedPlayers}) => {
+    console.log(purchasedPlayers)
     return (
         <div>
-            <p>This is the selection type</p>
+            {
+                purchasedPlayers.map(player => <SelectedPlayer player = {player}></SelectedPlayer>)
+            }
         </div>
     );
 };
